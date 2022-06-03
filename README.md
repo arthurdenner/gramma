@@ -1,3 +1,7 @@
+# @arthurdenner/gramma
+
+A fork that includes the [copy to clipboard](https://github.com/caderek/gramma/pull/35) feature.
+
 <div align="center">
     <img src="assets/gramma-logo.png" alt="gramma-logo" />
 </div>
